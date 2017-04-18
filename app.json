@@ -4,5 +4,5 @@
   "repository": "https://github.com/PViole/infiniteacademy.git",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["infiniteacademy", "express", "heroku" , "nodejs", "github"],
-  "image": "heroku/nodejs"
+  "image": "infiniteacademy/nodejs"
 }
